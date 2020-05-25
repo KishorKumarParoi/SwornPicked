@@ -1,0 +1,72 @@
+#include<bits/stdc++.h>
+#include<string>
+using namespace std;
+{
+    long frnd,bud,hotel,week,amount,cost=15000000,b,p,visit,i,j,room;
+    while(scanf("%ld%ld%ld%ld",&frnd,&bud,&hotel,&week)==4)
+    {
+        for(i=0;i<hotel;i++)
+        {
+            scanf("%ld",&amount);
+            for(j=0;j<week;j++)
+            {
+                scanf("%ld",&room);
+                p=0;
+                if(room>=frnd)
+                {
+                    p=amount*frnd;
+                    if(cost>p)
+                    cost=p;
+                }
+            }
+        }
+            if(cost>bud)
+            printf("stay home\n");
+            else
+            printf("%ld\n",cost);
+            cost=15000000;
+
+
+        }
+
+    return 0;
+}
+/*
+int main()
+{
+   long int i,n,b,h,w,p,flag,A[1001];
+    while(scanf("%ld %ld %ld %ld",&n,&b,&h,&w)==4)
+    {
+        flag=0;
+       long int B[n];
+        for(i=0; i<h; i++)
+        {
+            scanf("%ld",&p);
+            for(i=0; i<w; i++)
+            {
+                scanf("%ld",&A[i]);
+            }
+            for(i=0; i<w; i++)
+            {
+                if(A[i]>=n)
+                {
+                    B[i]=A[i]*p;
+                    if(B[i]<=b)
+                    {
+                        flag=1;
+                        printf("%ld\n",B[i]);
+                    }
+                }
+                else
+                    break;
+            }
+        }
+        if(flag==0)
+        {
+            printf("Stay Home\n");
+        }
+    }
+    return 0;
+}
+*/
+

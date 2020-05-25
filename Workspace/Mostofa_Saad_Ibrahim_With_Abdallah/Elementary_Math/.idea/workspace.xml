@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a7013bf-dca2-438d-9111-c7bc1f3d81ad" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZhvTBs0YDiP02TsFBExfGCl6TQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.codewithkishore.Main" />
+      <module name="Elementary_Math" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a7013bf-dca2-438d-9111-c7bc1f3d81ad" name="Default Changelist" comment="" />
+      <created>1585304145971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585304145971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="100" key="FileChooserDialogImpl" timestamp="1585304518393">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="768" y="100" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1585304518393" />
+    <state width="699" height="189" key="GridCell.Tab.0.bottom" timestamp="1585304696483">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="699" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1585304696483" />
+    <state width="699" height="189" key="GridCell.Tab.0.center" timestamp="1585304696483">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="699" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1585304696483" />
+    <state width="699" height="189" key="GridCell.Tab.0.left" timestamp="1585304696483">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="699" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1585304696483" />
+    <state width="699" height="189" key="GridCell.Tab.0.right" timestamp="1585304696483">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="699" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1585304696483" />
+    <state x="684" y="206" key="com.intellij.ide.util.TipDialog" timestamp="1585304736419">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="684" y="206" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1585304736419" />
+    <state x="581" y="3" width="785" height="761" key="new project wizard" timestamp="1585304900216">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="581" y="3" width="785" height="761" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1585304900216" />
+  </component>
+</project>

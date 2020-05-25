@@ -1,0 +1,200 @@
+
+Top highlight
+
+
+Andrei MargeloiuFollow
+Google HashCode World Finalist, CS student at UCL
+Sep 16, 2016
+How to prepare for competitive programming ?
+This is how I won 3 out of 4 Gold medals in the Computing Olympiad.
+Later edit: I’ve qualified to the World Finals of Google HashCode 2017, the largest algorithmic competition organised by Google.
+I started learning C++ from scratch during my first year of Highschool. I knew nothing about programming, algorithms or data structures. Seven months after I had written my first line of code, the Computing Olympiad was knocking at the door. And it was the perfect time to see if my learning style was worth 5 cents.
+After 2 days of competition, the results came: I’ve won the Gold medal.
+
+
+I was shocked because I had surpassed competitors with 5 years of experience. I knew I had worked hard, but this achievement exceeded my expectations. The programming contest matched me perfectly and I went all-in in this field.
+I know what brought me success and I want to share this with you.
+What language should you choose?
+C++ — Highly recommended! It’s very fast. Implementing different algorithms takes little time because of STL. C++ is accepted in all competitions. I’ve been using it since my first line of code.
+C — Go and learn C++ because of STL. If you have knowledge of C, you are ready to code in C++ as well.
+JAVA — It’s slow. But it has Big Integer class, even if there are very few problems that require using it. If the time limit is tight, you will get Time limit exceeded. Java is not accepted in all competitions.
+Where can you practice?
+I recommend Sphere Online Judge (SPOJ). It’s effective in terms of quality and quantity. Editorials and solutions are available online if you get stuck while solving problems. Supporting websites SPOJ Toolkit and Problem classifier for SPOJ.pl.
+Firstly, you have to master the basics.
+After you get used to the language’s syntax it’s time to solve some problems. Start with simple ones that require implementation skills. In this stage, your goal is to define your coding style. Maybe you like to write with lots of spaces, maybe not. Maybe you put the braces on the same line with the ‘if’ statement, maybe not.
+You have to find your coding style because it’s yours.
+And keep in mind these two principles while developing your coding style.
+Easy to implement. You should feel comfortable implementing the solution you came up with. Why? Because during the competition, the last thing you want to happen is to get lost in your code. It’s always better to think 5 more minutes about implementation rather than spending 10 more minutes doing it.
+Easy to read. This means ‘Easy to debug’. Let’s face it, we both know that bugs appear all the time. Do you know that feeling when you have 10 minutes left and you don’t find that fucking bug? Yes, you do. To solve that you have to write legible code. So when you start debugging, the code would feel natural and simple to follow.
+Here is my coding style.
+How to boost your implementation skills?
+Practice, practice and more practice. I recommend you to work the first 250 most solved problem on SPOJ. Solve them in that exact order. And think of the solution for at least one hour.
+Don’t say ‘This problem is too hard for me, I will try the next one’. That’s the loser mentality.
+Take a piece of paper and a pencil and try to think. In this way, you will probably find the solution, but for sure you will develop algorithmic thinking. If you don’t find the solution in one hour, then you can take a look on the forum or editorials to see the solution.
+The results of this approach? Fast implementation. And learning classic problems & algorithms.
+Secondly, you have to master Algorithms and Data structures.
+Follow a hierarchical approach. Did you start running without knowing how to walk? No. Can you build a skyscraper without a strong foundation? Again, no.
+This means that you can’t burn steps in your learning path. Or if you do, you’ll remain with knowledge gaps that will deepen as the time goes.
+Start with fundamental Algorithms and Data structures.
+It’s hard to start. Probably because you don’t know what to learn first. That’s why I’ve created an Algorithms and Data structures video course. I’ve made this course in the way I wish I had been taught. The response was incredible, 3000+ students from 100+ countries had joined during the first month.
+If you work easy problems, you will never become better.
+The most effective way to find what you don’t know is to actually encounter it. It’s what happened to me. I’ve learned many new techniques, that I had never heard of before, by choosing a hard problem.
+From every 3 problems you solve, one should teach you something new. If not, choose them more carefully. Choose harder problems!
+After you finish those 250 problems from SPOJ, you will have an overview of the main topics of competitive programming. By deeply understanding the logic behind basic algorithms, high-level algorithms will seem easy to understand. So you can rapidly leverage your knowledge.
+Now dig deeper into every major topic.
+Here is an tremendous resource with Top 10 Algorithms and Data structures in every topic. After those 250 problems from SPOJ, you will know many from that list. But there are still many that you have never heard about. So start learning them in ascending order.
+If you don’t strengthen your knowledge after you learn something new, you will forget it.
+I recommend that after you learn a new algorithm to practice 2–3 problems using it. Search the tag of the algorithm on SPOJ and you’ll find problems that require it. Work them before anything else.
+Understand Dynamic programming because it will make you win.
+From my experience, in every contest is at least one Dynamic programming problem. Many people get a headache when they hear DP because they don’t understand it.
+And it’s a good thing. Because if you truly understand DP, you will win.
+I like DP, it’s my favourite topic. And here is DP’s secret: think globally optimal, not just locally. You have to break the problem into simpler subproblems, solving each of them just once, and building the solution combining these solved subproblems. The opposite of DP is a greedy algorithm because the latter picks the locally optimal choice at each step. And locally optimal choices may result in a bad global solution.
+When learning new concepts, check TopCoder tutorials. They are very detailed and easy-to-follow. I’ve truly understood Binary Indexed Trees from there.
+Work hard.
+Have you ever heard of athletes who win the Olympics without years of practice? I haven’t.
+Every year, the preparation for the Computing Olympiad started in September and ended in April.
+Every single day in these 8 months I was practicing 5 hours.
+And yes, I spent these 5 hours just solving Algorithmic problems. I remember days when I spent even 8 or 10 hours practising. Why? Because I was passionate about it. Every day after coming back home from school I went straight to my bedroom and started solving a new problem. Or learning a new algorithm requisite for that problem.
+If you want to win, you must do the same. Take a problem and stick with it. Think about it during your daily routine. Like on your way to the supermarket, or while driving.
+
+
+Do you know that while sleeping, your brain is defragmenting the information gathered in that day? It’s like putting the books in alphabetical order on a bookshelf. Basically, your brain thinks at different problems that you have encountered.
+Here is how you can take advantage of this. Before you go to sleep read a hard problem and keep in mind what it requires. At this point, you don’t have to find the solution. Then you go to sleep and your brain mechanism starts to process that problem. When you wake up you will be surprised: you’ve found the solution while sleeping.
+Try it by yourself. It feels like magic.
+I started a Vlog
+
+
+This short paragraph is not related with Competitive Programming. I just wanted to let you know that if you are in your 20s and you find interesting how I see the world, I am doing a Youtube vlog. I talk about the world, life and Computer Science.
+Work smart.
+This is the secret to succeeding. You need targets.
+We are humans and we like to procrastinate. This means postponing things that you need to do right now. It’s always handier to watch Netflix rather than working DP problems. You know that, and you need to fix that.
+How can you beat procrastination?
+By assuming targets. You will always find interesting problems, from where you can learn something new (check the resources I gave you above). But those problems must be solved, not just read.
+So here’s how I overcame procrastination. I’ve made a paper calendar and I filled it with problems I wanted to solve each day. And I have always filled two days in advance with problems, so I knew how to manage my time in the following days.
+
+
+In this way, I was always motivated to finish the problems and find new ones to fill the calendar in the following days. It’s a rewarding feeling to cut problems when you solve them. I know you like that too.
+Do your own paper calendar. Don’t make another checklist on your phone, that you won’t care about tomorrow.
+How to debug effectively?
+Do you want to become a Pro? If so, you need to ‘debug in your mind’.
+It’s by far the most efficient debugging technique I know because it doesn’t require a debugger at all. Your brain explores multiple code paths at the same time and gives you a much broader perspective of the code, compared with the classic debugger.
+It’s similar to grandmasters’ ability to play chess and think 3 moves in advance.
+I use this technique exclusively as my initial line of defence, followed by using an actual debugger in the last instance.
+To learn to ‘debug in your mind’ you need to practice. When you submit a problem and receive ‘Wrong answer’ don’t go straight to the debugger button. Instead, start to read the code and think ‘What happens on this line?’, ‘How does this ‘if’ statement affect the program?’, ‘When it exits the loop, what is the value of the iterator?’.
+In this way you think on your own. Over time, you’ll start debugging in real-time as you write the code.
+Found this post useful? Kindly tap the ❤ button below! :)
+About The Author
+Andrei Margeloiu is a passionate programmer interested in entrepreneurship, startups and nature. You can connect with him on LinkedIn.
+
+CodingProgrammingCompetitive ProgrammingAlgorithmsLearning
+
+11.1K
+30
+Follow
+
+Andrei Margeloiu
+Google HashCode World Finalist, CS student at UCL
+
+Related reads
+5 things you need to know in a programming interview
+
+Zhia Hwa Chong
+
+
+2K
+
+
+
+
+Related reads
+The 2 types of software engineering interviews and how to prepare for them
+
+
+Connor Leech
+
+
+2.4K
+
+
+
+Also tagged Programming
+The Complete JavaScript Handbook
+
+Flavio Copes
+
+
+24K
+
+
+Responses
+
+Write a response…
+Kishor Kumar Paroi
+Applause from Andrei Margeloiu (author)
+
+Shiv Pratap Singh
+Sep 19, 2016
+Thanks for this great article, I have been searching for this awesome guidance from a long time ago. Your article just motivated me with an extra bits of blood to flow over the whole body, in order to do something.
+I am thankful to you, for showing the smart way of learning and grasping the essence of technology and its innovative pleasure.
+
+30
+1 response
+
+Conversation with Andrei Margeloiu.
+
+Rajat Saxena
+Sep 25, 2016
+I recommend you to work the first 250 most solved problem on SPOJ.
+Hello Andrei, Is the SPOJ link correct? I mean the question numbers are not in sequence. Does the list start from Page 2?
+
+9
+1 response
+
+Andrei Margeloiu
+Sep 25, 2016
+Rajat, you are correct. I will modify to start from page 1.
+Thanks for mentioning! And keep solving problems :)
+
+69
+1 response
+
+Conversation with Andrei Margeloiu.
+
+Rick McGavin
+Sep 19, 2016
+You really did a great job providing strong guidance for someone interested in competitive programming. Thank you.
+
+13
+1 response
+
+Andrei Margeloiu
+Sep 19, 2016
+Thank you Rick! It’s a delight to share my knowledge 😃. The next article will talk about the winner’s mentality that you need to have in order to succeed.
+Stay tuned!
+
+15
+
+
+Conversation with Andrei Margeloiu.
+
+Hemakshi Sachdev
+Nov 20, 2017
+I’ve been doing competitive programming for over an year now but still couldn’t succeed. The main thing I was missing was consistency. That I have to solve each and every single day! The method you have given is what I’ve planned to do after my semester exams get over. I hope this time I will “do” more and “plan” less.
+Thanks a lot for this amazing article!
+
+10
+1 response
+
+Andrei Margeloiu
+Jun 6
+How did it work?
+
+3
+2 responses
+Show all responses
+
+
+
+11.1K
+
+

@@ -1,0 +1,9 @@
+A,C,D,E day: 1.30-3(11 hours)
+B day : 4.00-3(11 hours)
+D day : 8-11 (3 hours)
+2week one day(C day): 8-11 (3 hours)
+total = 58 Hours
+Thursday = (11-4)+(6-3) = 14+3 =17 hours
+Friday =  17 Hours
+Summation = 58 + 34 = 92 Hours
+Class Time = 8 hours= 100 Hours (Happy Coding) <3 

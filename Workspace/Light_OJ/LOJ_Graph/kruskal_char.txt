@@ -1,0 +1,18 @@
+8 9
+Rayerbag
+Niketon
+Mirpur
+Dhanmondi
+Jatrabari
+Rampura
+Badda
+Gulshan
+Rayerbag Dhanmondi 3
+Rayerbag Jatrabari 6
+Niketon Rampura 5
+Niketon Badda 1
+Mirpur Jatrabari 6
+Dhanmondi Rampura 8
+Rampura Badda 3
+Rampura Gulshan 2
+Badda Gulshan 6

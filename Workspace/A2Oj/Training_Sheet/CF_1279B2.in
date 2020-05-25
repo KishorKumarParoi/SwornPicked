@@ -1,0 +1,9 @@
+  int res = upper_bound(a, a + n + 1, ll(s)) - a - 1;
+        int bi = 0;
+        for (int i = 1; i <= n; i++) {
+            int cand = upper_bound(a, a + n + 1, ll(s) + (a[i] - a[i - 1])) - a - 1;
+            if (i <= cand && cand > res) {
+                res = cand; bi = i;
+            }
+        }
+        printf("%d\n", bi);
