@@ -25,7 +25,10 @@ int main()
     cout << endl;
 
     // Using lambda expression as third parameter
-    fread_s(arr.begin() + 2, 2, [](auto& x) { x += 2; });
+    fread_s(arr.begin() + 2, 2, [](auto& x)
+    {
+        x += 2;
+    });
 
     // Print the modified vector
     for (auto i : arr)

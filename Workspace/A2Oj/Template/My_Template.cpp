@@ -1,4 +1,4 @@
-//26-5-20
+//1-6-20
 #pragma GCC optimize ("-O2")
 #define _CRT_SECURE_NO_WARNINGS 1
 
@@ -12,7 +12,7 @@ using namespace std :: chrono;
 #define scl(n)                        scanf("%d",&n)
 #define scll(n)                       scanf("%lld",&n)
 #define sz(a)                         (int)a.size()
-#define  maxN                         1005
+#define maxN                         1005
 #define uu                            first
 #define vv                            second
 #define ll                            long long
@@ -69,10 +69,17 @@ auto duration = duration_cast < milliseconds > (en-st);
 cout<< "consumed time in ms " << duration.count() <<endl;
 */
 
+void solve()
+{
+
+}
+
 int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(0);
+
+    solve();
 
     return 0;
 }
